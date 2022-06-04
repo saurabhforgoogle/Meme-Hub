@@ -1,7 +1,8 @@
 # Meme-Hub
 A android aplication for memes
-Uses 
-RecyclerView
-API volley Library
-Youtube Player
-Reddit Memes with recommendations
+<br />
+<B>Uses </B> <br />
+RecyclerView <br />
+API volley Library <br />
+Youtube Player<br />
+Reddit Memes with recommendations  <br />
